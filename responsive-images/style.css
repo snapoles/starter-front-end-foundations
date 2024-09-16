@@ -49,3 +49,8 @@ h3 {
     flex-direction: row;
   }
 }
+
+/* adding as part of lesson tested "img" (broad) vs "main img" (targeted) changes */
+img {
+  width: 100%;
+}
